@@ -53,5 +53,4 @@ geckodriver.log
 # Ignore floydhub files
 .floydexpt
 
-# Ignore dataset
-data
+
