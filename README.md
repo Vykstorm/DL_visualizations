@@ -12,7 +12,7 @@ This repository contains graph plotting examples using the libraries numpy, pand
 * [Plot classification boundaries using contours](contours.ipynb) <br/>
 ![](images/contours.png)
 
-* [Heatmap to show confusion matrices](heatmap.ipynb) <br/>
+* [Heatmap to show confusion matrices](images/heatmap.png) <br/>
 ![](images/heatmap.png)
 
 * [Plot 3D surfaces](surfaces.ipynb) <br/>
@@ -21,3 +21,14 @@ This repository contains graph plotting examples using the libraries numpy, pand
 * [Pie](pie.ipynb) & [bar](bars.ipynb) graphics to get data insights <br/>
 ![](images/pie.png)
 ![](images/bars.png)
+
+
+### Installation
+
+To run all the notebooks you will need a few
+package dependencies that you can add via pip. <br/>
+I Added the file requeriments.txt so you can run the next command to install all libraries
+
+```
+pip install -r requeriments.txt
+```
