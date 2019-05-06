@@ -12,7 +12,7 @@ This repository contains graph plotting examples using the libraries numpy, pand
 * [Plot classification boundaries using contours](contours.ipynb) <br/>
 ![](images/contours.png)
 
-* [Heatmap to show confusion matrices](images/heatmap.png) <br/>
+* [Heatmap to show confusion matrices](heatmap.ipynb) <br/>
 ![](images/heatmap.png)
 
 * [Plot 3D surfaces](surfaces.ipynb) <br/>
