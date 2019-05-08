@@ -18,9 +18,10 @@ This repository contains graph plotting examples using the libraries numpy, pand
 * [Plot 3D surfaces](surfaces.ipynb) <br/>
 ![](images/surface3d.png)
 
-* [Pie](pie.ipynb) & [bar](bars.ipynb) graphics to get data insights <br/>
+* [Pie](pie.ipynb) & [bar](bars.ipynb) graphics. [Also histograms & boxplots](statistics.ipynb)<br/>
 ![](images/pie.png)
 ![](images/bars.png)
+![](images/boxplots.png)
 
 
 ### Installation
